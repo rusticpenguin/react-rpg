@@ -35,4 +35,4 @@ ______
 * [GitHub](https://github.com/rusticpenguin)
 ___
 
-This repo is licensed under [The MIT License](https://opensource.org/licenses/MIT) © 2018 George Chios
+This repo is licensed under [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html) © 2018 George Chios
